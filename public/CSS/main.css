@@ -1,0 +1,56 @@
+.link-all-pizzas-list {
+    text-decoration: none;
+    color: #222;
+}
+
+.link-all-pizzas-list:hover {
+    text-decoration: underline;
+    color: #222;
+}
+
+.div-order-list,
+.div-form {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.div-form form {
+    margin-bottom: 10px;
+}
+
+.div-individual-order,
+.div-order-details {
+    /* background-color: #eee; */
+    margin-bottom: 16px;
+}
+
+.div-individual-order {
+    padding: 4px;
+
+    width: 25%;
+}
+
+.link-individula-order {
+    text-decoration: none;
+    color: #222;
+}
+
+.div-order-details {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.complete-order-button,
+.submit-button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+}
+
+.label {
+    margin-right: 10px;
+}
+
+.label-toppings {
+    display: block;
+}
